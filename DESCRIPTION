@@ -4,7 +4,7 @@ Version: 0.1.1
 Authors@R: 
     person(given = "Andy",family = "Beet", role = c("aut", "cre"),
            email = "andrew.beet@noaa.gov",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "0000-0001-8270-7090"))
 Description: Supplies stock SMART data 
 URL: https://github.com/NOAA-EDAB/assessmentdata
 BugReports: https://github.com/NOAA-EDAB/assessmentdata/issues
@@ -19,3 +19,5 @@ Imports:
     dplyr,
     tidyr,
     magrittr
+Suggests: 
+    here
