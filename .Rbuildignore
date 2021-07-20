@@ -5,3 +5,4 @@
 dataFromReports
 reports
 ^README\.Rmd$
+^data-raw$
