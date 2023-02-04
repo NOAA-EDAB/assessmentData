@@ -22,4 +22,6 @@ Imports:
     rlang,
     ggplot2
 Suggests:
-    here
+    here,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
